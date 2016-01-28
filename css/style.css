@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 .header {
 	background:url(../images/1.jpg) no-repeat;
 	width:100%;
-	background-size:cover;
+	background-size:auto;
 	-webkit-background-size:cover;
 	-o-background-size:cover;
 	-moz-background-size:cover;
