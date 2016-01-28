@@ -165,9 +165,10 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .content-top{
 	position:relative;
-	padding: 6.5em 0;
+	padding: 2.5em 0;
 }
 .content-top1{
+    margin-top: 8pc;
 }
 .caption h3{
 	font-size:1.3em;
@@ -179,7 +180,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	color: #000;
 	line-height: 1.9em;
 	font-family: 'Cinzel-Regular';
-	font-size: 1em;
+	font-size: 0.9em;
 }
 .top-grid:before{
 	content: '';
@@ -206,6 +207,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .content-middle {
   padding: 0 15px;
+    
 }
 .content-mid1{
 	padding: 1.63em;
@@ -215,6 +217,13 @@ h1,h2,h3,h4,h5,h6,label,p{
 	font-size: 2em;
   	font-family: 'Cinzel-Regular';
   	color: #fff;
+ 	margin: 0.22em 0;
+}
+.Hobbies h1{
+    position: relative;
+    font-size: 2em;
+  	font-family: 'Cinzel-Regular';
+  	color: #000;
  	margin: 0.22em 0;
 }
 .content-mid1 p {
